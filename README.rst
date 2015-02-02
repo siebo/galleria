@@ -21,4 +21,9 @@ Documentation is currently available in `reST
 
 You can build local HTML using Sphinx: http://sphinx.pocoo.org/
 
+Fork
+====
+
+This fork exists to test integration with the Flickr API options before merging into a Plone integration
+
 
